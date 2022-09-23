@@ -1,0 +1,8 @@
+.country {
+    border: 1px solid saddlebrown;
+    border-radius: 10px;
+    background-color: darkolivegreen;
+}
+.country > img {
+    height: 120px;
+}

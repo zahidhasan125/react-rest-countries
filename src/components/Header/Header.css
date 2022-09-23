@@ -1,0 +1,20 @@
+h1 {
+    box-shadow: 2px 2px #8d8d8d;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 1.2em;
+    background-color: aqua;
+    padding: 4px 8px;
+    border: 1px solid salmon;
+    border-radius: 5px;
+    cursor: pointer;
+}
